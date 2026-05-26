@@ -54,11 +54,11 @@ nav ul {
   justify-content: center;
   align-items: center;
 
-  gap: 60px;
+  gap: 30px;
 
-  min-height: 80vh;
+  min-height: 30vh;
 
-  padding: 0 60px;
+  padding: 0px 60px;
 }
 
 .hero-right {
@@ -97,7 +97,7 @@ nav ul li a:hover {
 .about {
     max-width: 700px;
 
-    margin: 200px auto;
+    margin: 100px auto;
     text-align: center;
 }
 
@@ -242,7 +242,7 @@ display: inline-block;
 
   .hero {
   flex-direction: column;
-}
+  }
 
   nav ul {
     padding: 0;
@@ -434,16 +434,4 @@ footer a:hover {
   opacity: 1;
 
   transform: translateY(0);
-}
-
-footer a i {
-  font-size: 24px;
-
-  transition: 0.3s;
-}
-
-footer a i:hover {
-  transform: translateY(-3px);
-
-  color: white;
 }
