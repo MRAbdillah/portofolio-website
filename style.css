@@ -95,13 +95,14 @@ nav ul li a:hover {
 }
 
 .about {
-  min-height: 100vh;
+  min-height: 50vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   text-align: center;
   margin-top: 0;
+  padding: 0px 100px;
 }
 
 
