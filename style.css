@@ -96,7 +96,7 @@ nav ul li a:hover {
 
 .about {
     max-width: 700px;
-
+    margin-top: 100px;
     text-align: center;
 }
 
@@ -119,6 +119,7 @@ display: inline-block;
 
 .experience {
     padding: 60px 60px;
+    margin-top: 100px;
     margin-bottom: 100px;
 }
 
@@ -176,6 +177,7 @@ a {
 
 .projects {
     padding: 0 60px;
+    margin-top: 100px;
     margin-bottom: 200px;
 }
 
@@ -324,7 +326,7 @@ box-shadow: 0 0 30px rgba(255, 255, 255, 0.08);
 
 .skills {
   padding: 0 60px;
-
+margin-top: 100px;
   margin-bottom: 100px;
 }
 
